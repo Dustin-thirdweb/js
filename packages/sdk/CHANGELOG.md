@@ -1,5 +1,14 @@
 # @thirdweb-dev/sdk
 
+## 3.10.29
+
+### Patch Changes
+
+- [#1298](https://github.com/thirdweb-dev/js/pull/1298) [`72ada475`](https://github.com/thirdweb-dev/js/commit/72ada47596d5d5c08736c33215faeec636b7156a) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Proper types for contract.metadata.get() for custom contracts
+
+- Updated dependencies [[`b5c6eedb`](https://github.com/thirdweb-dev/js/commit/b5c6eedb38aa3c52eb97f3d25ad83e38c55afe61)]:
+  - @thirdweb-dev/chains@0.1.28
+
 ## 3.10.28
 
 ### Patch Changes
